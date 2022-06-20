@@ -5,6 +5,12 @@
     background-size: cover;
 }
 
+:root {
+    --white: #fdede4;
+    --black: #000000;
+    --brown: #4c2307;
+}
+
 #hero .navbar.is-transparent{
     background-color: transparent ;
 }
